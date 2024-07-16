@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack dev and automation 
 - 🌱 I’m currently learning software testing using selenium 
 - 💞️ I’m looking to collaborate on cool projects which solve real world problems 
-- 📫 How to reach me @twitter (profile in links)
+- 📫 How to reach me mhkkapur12@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love learning new stuff
 
